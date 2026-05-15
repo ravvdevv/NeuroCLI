@@ -32,7 +32,7 @@ NeuroCLI is an AI-powered command line assistant designed to enhance developer p
 
 2. Install the latest version of NeuroCLI:
    ```bash
-   go install github.com/Ravsalt/neurocli@latest
+   go install github.com/ravvdevv/neurocli@latest
    ```
 
 3. Add Go's bin directory to your PATH if it's not already there:
